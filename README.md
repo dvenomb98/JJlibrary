@@ -13,6 +13,5 @@
 - Favorites section (unique to each user, sending data to firestore)
 - Comment section (unique to each course, sending data to firestore)
 - React Routes v6 / Protected routes
-- Styled with tailwind
 - Search function (All courses page)
-.. and much more
+- .. and much more
