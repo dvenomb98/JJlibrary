@@ -1,5 +1,10 @@
 # Jiu Jitsu Library - demo
 
+
+### Test account
+Email: test@test.cz
+pass: 123456
+
 ### Build with:
 
 - React JS
